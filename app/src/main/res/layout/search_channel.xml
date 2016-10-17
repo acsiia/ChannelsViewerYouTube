@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorWhite"
+              android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageButton
+        android:id="@+id/button_back"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_back"/>
+
+    <EditText
+        android:id="@+id/searh_channel_text"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:focusable="true"
+        android:maxLines="1"
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:background="@null"/>
+
+    <ImageButton
+        android:id="@+id/search_channel_button"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_ok"/>
+</LinearLayout>

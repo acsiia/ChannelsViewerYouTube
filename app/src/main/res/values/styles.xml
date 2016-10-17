@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#cd201f</item>
+        <item name="colorPrimaryDark">#eb4924</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+
+    <style name="DialogInput" parent="Theme.AppCompat.Light.Dialog">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>

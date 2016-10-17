@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="massege_internet_not_connected">нет подключения к интернету</string>
+    <string name="massege_no_such_channel">не найдено такого канала</string>
+    <string name="published_at">опубликовано</string>
+    <string name="favorite">избранное</string>
+    <string name="menu_home">главная</string>
+    <string name="menu_favorite">избранное</string>
+</resources>
